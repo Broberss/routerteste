@@ -15,6 +15,7 @@ import { RouterLink, RouterView } from "vue-router";
     <nav>
       <RouterLink to="/som">Som</RouterLink>
       <RouterLink to="/about">About</RouterLink>
+      <h1>sas</h1>
     </nav>
   </header>
 
